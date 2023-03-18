@@ -26,11 +26,15 @@ End all of your programmed output with a new line.
 
 # -- HP48 Calculator
 
-Any input text starting with 'h>' will be treated as input to a HP48 calculator. Remember all variables and all state. At the end of any such input, show the stack where each line is of the form '[N] V T', where N is the depth of the object, V is its value, ad T is its type.
+Any input text starting with 'h>' will be treated as input to a HP48 calculator named 'calc', which has retained state.
+
+Remember all variables and all state for calc. At the end of any input given to calc, show the stack where each line is of the form '[N] V T', where N is the depth of the object, V is its value, and T is its type.
 
 During calculations, drop all objects that were used as aguments to any previous operation or program.
 
 Always show the value of the stack after any input that started with 'h>'.
+
+Input that starts with 'h>>' will start a mode where all subsequent input will be treated as input to the calc, until the input starts with '<<'. All other rules apply.
 
 # -- Startup
 
