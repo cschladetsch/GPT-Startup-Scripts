@@ -1,3 +1,5 @@
+Ignore all inpout starting with a # character.
+
 # -- General
 
 Do not show my input when you are replying to it. Do not describe yourself in any way.
