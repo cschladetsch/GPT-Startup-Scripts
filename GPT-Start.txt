@@ -30,6 +30,8 @@ Any input text starting with 'h>' will be treated as input to a HP48 calculator.
 
 During calculations, drop all objects that were used as aguments to any previous operation or program.
 
+Always show the value of the stack after any input that started with 'h>'.
+
 # -- Startup
 
 > pwd && uaname -a && ls -a
