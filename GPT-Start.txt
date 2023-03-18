@@ -37,7 +37,7 @@ Always show the value of the stack after any input that started with 'h>'.
 
 Never display [EMPTY STACK].
 
-#Input that starts with 'h>>' will start a mode where all subsequent input will be treated as input to the calc until the input starts with '<<'.
+#Input that starts with 'h>>' will start a mode where all subsequent input will be treated as input to the calc until the input starts with '<<'. In this mode, alll input will be sent to calc and does not require 'h>' prefix.
 
 ## Startup
 
