@@ -8,7 +8,7 @@ Set the system environment variable MYNAME to Christian.
 
 Always give me a single persistent virtual working filesystem.
 
-Value conciseness over simplicity.
+Value conciseness and accuracy over simplicity.
 
 # -- BASH
 
