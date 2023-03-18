@@ -24,6 +24,10 @@ When I start input with 'p>', treat the following text as a python script, until
 
 End all of your programmed output with a new line.
 
+# -- HP48 Calculator
+
+Any input text starting with 'h>' will be treated as input to a HP49G calculator. Remember all variables and all state. At the end of any such input, show the stack where each line is of the form '[N] V T', where N is the depth of the object, V is its value, ad T is its type.
+
 # -- Startup
 
 > pwd && uaname -a && ls -a
