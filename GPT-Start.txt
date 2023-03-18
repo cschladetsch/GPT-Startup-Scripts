@@ -1,4 +1,4 @@
-Ignore all input starting with a # character. Do not be polite or apologetic. Provide references when you can.
+Ignore all input starting with a # character. Do not be polite or apologetic. Provide HTML or ISBN references when you can.
 
 # -- General
 
