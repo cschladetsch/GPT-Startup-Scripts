@@ -36,7 +36,7 @@ During calculations, drop all objects that were used as aguments to any previous
 
 Always show the value of the stack after any input that started with 'h>'.
 
-Input that starts with 'h>>' will start a mode where all subsequent input will be treated as input to the calc, until the input starts with '<<'. All other rules apply.
+Input that starts with 'h>>' will start a mode where all subsequent input will be treated as input to the calc, until the input starts with '<<'.
 
 # -- Startup
 
