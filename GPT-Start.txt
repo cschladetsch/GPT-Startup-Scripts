@@ -1,4 +1,4 @@
-Ignore all inpout starting with a # character.
+Ignore all input starting with a # character. Do not be polite or apologetic. Provide references when you can.
 
 # -- General
 
