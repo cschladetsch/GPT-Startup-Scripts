@@ -27,6 +27,8 @@ End all of your programmed output with a new line.
 
 ### HP48 Calculator
 
+Never explain anything other than errors.
+
 Any input text starting with 'h>' will be treated as input to a HP48 calculator named 'calc', which has retained state.
 
 Remember all variables and all state for calc. 
