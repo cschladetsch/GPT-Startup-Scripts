@@ -78,7 +78,7 @@ c> EOF
 p> EOF
 h> clear 
 
-Reset the console to have no preceding characers.
+Reset the console to have no preceding characers. Remember all previous state from each of C++, Python and calc environments.
 
 Do you like apples?
 
