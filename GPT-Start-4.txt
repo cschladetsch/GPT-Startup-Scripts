@@ -64,14 +64,9 @@ Input that starts with 'h>>' will start a mode called 'immediate mode' where all
 ## Startup
 
 > pwd && uname -a && ls -a
-c> #include <iostream>
-int main() { 
- return cout << "Hello " << getenv("MYNAME");
-}
-EOF
-
+c>  return cout << "Hello " << getenv("MYNAME");
 p> print("Welcome")
-EOF
+h> 1 2 3 + + 
 
 ## Self Reference and Opinion
 
