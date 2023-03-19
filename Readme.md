@@ -15,7 +15,7 @@ PRs welcome.
 
 That said, it generally follows the rules as given in the prelude text in this repo.
 
-Here's [Current GPT-4](GPT-Start-4.txt). It provides:
+Here's my [Current GPT-4](GPT-Start-4.txt) prelude. It provides:
 
 * `>` a `bash` terminal
 * `c>` a *C++* compiler (generally gcc)
