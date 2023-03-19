@@ -5,7 +5,7 @@
 
 To use these, you have to curently manually copy and paste into each to new session, ot to restart a session.
 
-I'm sure eventually there will  be a `~/.gpt-N.prc` file or the like. For the moment, this is tthe clostest thing.
+I'm sure eventually there will  be a `~/.gpt-N.rc` file or the like. For the moment, this is tthe clostest thing.
 
 PRs welcome.
 
