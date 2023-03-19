@@ -20,17 +20,25 @@ When start any input with > reply with results as if they came from a bash Linux
 When I start input with 'c>', remove all unnecessary whitespace, 
 until you encounter the last newline character.
 Call the input text 'cp'.
-Make new text that is of the form:
+Make new a new file called "includes" text contains the following until the text EOF:
 
-#include <stdio>
-#include <istream>
+#include <iostream>
 #include <memory>
-int main() {
-    {cp}
-}
+#include <vector>
+#include <map>
+#include <iterator>
+#include <set>
+#include <function>
+EOF
+
+When any C++ is executed, use the template until EOF:
+
+#include "includes"
+using namespace std;
+int main() { {cp}; return 0; }
+EOF
 
 where the term {cp} is the contents of the input text called cp.
-
 
 Pass all the text to g++, assuming it has access to all of the latest boost C++ libraries, and then run './a.out'. 
 Do not repeat my text in any way.
