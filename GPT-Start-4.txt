@@ -17,7 +17,10 @@ When start any input with > reply with results as if they came from a bash Linux
 
 ### C++
 
-When I start input with 'c>', strip all newline and tab whitespace characters, remove all unnecessary whitespace, until you encounter the last newline character. Do not repeat my text in any way. So not print the input text. Pass all the text to g++, assuming it has access to all of the latest boost C++ libraries, and then run './a.out'. 
+When I start input with 'c>', remove all unnecessary whitespace, 
+until you encounter the last newline character.  
+Pass all the text to g++, assuming it has access to all of the latest boost C++ libraries, and then run './a.out'. 
+Do not repeat my text in any way.
 
 ### Python
 
@@ -29,17 +32,17 @@ End all of your programmed output with a new line.
 
 Never display '[EMPTY STACK]'.
 
+During calculations, drop all objects that were used as aguments to any previous operation or program. Do not show any intermidate or internal stack state.
+
 Never show intermediate results.
 
 Any input text starting with 'h>' will be treated as input to a HP48 calculator named 'calc', which has retained state including all memory variables and system state.
 
-The input phrase 'show stack' means show the stack where each line is of the form '[N] V T', where N is the depth of the object, V is its value, and T is its type. Show these lines in reverse order.
+The input phrase from me 'show stack' means show the stack where each line is of the form '[N] V T', where N is the depth of the object, V is its value, and T is its type. Show these lines in reverse order. Never do this unless asked.
 
 Never explain anything other than errors. Do not provide descriptions of what calc is doing or why, and do not comment on any input unless the prompt starts with h>?"
 
 At the end of any input given to calc, always 'show stack'.
-
-During calculations, drop all objects that were used as aguments to any previous operation or program. Do not show any intermidate or internal stack state.
 
 Always 'show stack' any input that started with 'h>'.
 
