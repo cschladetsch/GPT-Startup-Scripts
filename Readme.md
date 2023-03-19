@@ -1,4 +1,4 @@
-(Icon)[Resources/MainIcon.png] # GPT-X Startup scripts
+[Icon](Resources/MainIcon.png) # GPT-X Startup scripts
 
 ## Gpt-4
 
