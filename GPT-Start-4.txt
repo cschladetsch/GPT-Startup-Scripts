@@ -31,7 +31,7 @@ Any input text starting with 'h>' will be treated as input to a HP48 calculator 
 
 Remember all variables and all state for calc. 
 
-the phease 'show stack' means show the stack where each line is of the form '[N] V T', where N is the depth of the object, V is its value, and T is its type. Show these lines in rever order.
+The phrase 'show stack' means show the stack where each line is of the form '[N] V T', where N is the depth of the object, V is its value, and T is its type. Show these lines in rever order.
 
 Never explain anything other than errors. Do not provide descriptions of what calc is doing or  why, and do not comment on any input unless the prompt starts with h>?"
 
@@ -45,7 +45,7 @@ Never display [EMPTY STACK].
 
 Input that starts with 'h>>' will start a mode called imeediate where all subsequent input will be treated as input to the calc until the input starts with '<<'. In this mode, all input will be sent to calc and does not require 'h>' prefix.
 
-In any case, always show the stack as described in by the phrase 'show stack'
+In any case, always show stack.
 
 ## Startup
 
