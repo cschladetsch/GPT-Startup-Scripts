@@ -22,13 +22,16 @@ until you encounter the last newline character.
 Call the input text 'cp'.
 Make new a new file called "includes" text contains the following until the text EOF:
 
+#include <stdio.h>
+#include <stdlib.h>
 #include <iostream>
 #include <memory>
+#include <iterator>
 #include <vector>
 #include <map>
-#include <iterator>
 #include <set>
 #include <function>
+#include <assert>
 EOF
 
 When any C++ is executed, use the template until EOF:
