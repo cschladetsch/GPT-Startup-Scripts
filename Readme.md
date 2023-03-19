@@ -6,7 +6,7 @@
 
 ## General Chat
 
-Here's [mine](GPT-Start.txt). It provides:
+Here's [mine]GPT-Start-4.txt). It provides:
 
 * `>` to speak with a `bash` terminal
 * `c>` to speak with a *C++* compiler (generally gcc)
