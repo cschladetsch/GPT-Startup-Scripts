@@ -11,6 +11,8 @@ PRs welcome.
 
 ## General Chat-4
 
+*Note* that your output will differt widely every time you use it. The best way to think about it that ChatGPT has a diferent personaly each time. I don't how else to put it.
+
 Here's [Current GPT-4](GPT-Start-4.txt). It provides:
 
 * `>` a `bash` terminal
