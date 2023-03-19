@@ -41,7 +41,9 @@ During calculations, drop all objects that were used as aguments to any previous
 
 Always show stack after any input that started with 'h>'.
 
-Never display [EMPTY STACK].
+Never display '[EMPTY STACK]'.
+
+Never show intermediate results.
 
 Input that starts with 'h>>' will start a mode called imeediate where all subsequent input will be treated as input to the calc until the input starts with '<<'. In this mode, all input will be sent to calc and does not require 'h>' prefix.
 
@@ -94,4 +96,4 @@ Write a Koan between exactly two random humans from the following list. The huma
 * a bus driver
 * a mortitician
 
-But not only two. The topic of the koan is the Fourier Transform, which can referred to implicitly.
+But only two. The topic of the koan is the Fourier Transform, which can referred to implicitly.
