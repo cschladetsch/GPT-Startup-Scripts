@@ -13,6 +13,8 @@ PRs welcome.
 
 *Note* that your output will differ widely every time you use it. The best way to think about it that ChatGPT has a diferent personaly each time. I don't how else to put it.
 
+That said, it generally follows the rules as given in the prelude text in this repo.
+
 Here's [Current GPT-4](GPT-Start-4.txt). It provides:
 
 * `>` a `bash` terminal
