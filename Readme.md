@@ -11,7 +11,7 @@ PRs welcome.
 
 ## General Chat-4
 
-Here's [mine](GPT-Start-4.txt). It provides:
+Here's [Current GPT-4](GPT-Start-4.txt). It provides:
 
 * `>` a `bash` terminal
 * `c>` a *C++* compiler (generally gcc)
