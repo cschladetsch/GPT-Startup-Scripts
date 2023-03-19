@@ -1,4 +1,6 @@
-![Icon](Resources/MainIcon-Small.png) # GPT-X Startup scripts ## Gpt-4
+![Icon](Resources/MainIcon-Small.png) # GPT-X Startup scripts 
+
+## Gpt-4
 
 Theres a common set of actions/rules many of us use when interacting with ChatGPT.
 
