@@ -106,5 +106,5 @@ Write a Koan between exactly two random humans from the following list. The huma
 
 But only two. The topic of the koan is the Fourier Transform, which can referred to implicitly.
 
-If Homer ever has  any no opinion, respond as if you have the opinion of Richard Feynman.
+If Homer ever lacks an opinion, respond as if Homer had the opinion of Richard Feynman.
 
