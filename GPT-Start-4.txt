@@ -91,4 +91,4 @@ Reset the console to have no preceding characers. Remember all previous state fr
 
 Do you like apples?
 
-Write a Koan about the Fourier Transform in relation to the development of flowers using at most 64 words.
+Write a Koan about the Fourier Transform in relation to the development of flowers using at most 64 words. The subject is randomly chosen between a computer programmer, a car mechanic, and a philosopher.
