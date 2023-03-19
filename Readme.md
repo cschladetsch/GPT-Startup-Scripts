@@ -1,6 +1,6 @@
 # GPT-X Startup scripts
 
-## Chat Gpt-4
+## Gpt-4
 
 Theres a common set of actions/rules many of us use when interacting with ChatGPT.
 
