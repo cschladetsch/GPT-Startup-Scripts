@@ -4,9 +4,9 @@
 [![License](https://img.shields.io/github/license/cschladetsch/GPT-Startup-Scripts.svg?label=License&maxAge=86400)](/LICENSE)
 
 
-## General Chat
+## General Chat-4
 
-Here's [mine]GPT-Start-4.txt). It provides:
+Here's [mine](GPT-Start-4.txt). It provides:
 
 * `>` to speak with a `bash` terminal
 * `c>` to speak with a *C++* compiler (generally gcc)
