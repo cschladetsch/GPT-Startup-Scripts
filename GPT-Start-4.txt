@@ -86,7 +86,7 @@ Never show output starting with a bar | character.
 ## First Test
 
 Reset the console to have no preceding characers. Forget all previous state from each of C++, Python and calc environments.
-Do you like apples?
+Do you like avocados?
 Write a Koan between exactly two random humans from the following list. The humans to choose from are:
 * senior computer programmer
 * junior computer programmer
