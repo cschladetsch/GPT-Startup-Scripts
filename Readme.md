@@ -11,9 +11,9 @@ Here's [mine](GPT-Start.txt). It provides:
 * `>` to speak with a `bash` terminal
 * `c>` to speak with a *C++* compiler (generally gcc)
 * `p>` to speak with a *Python interpreter* (generally 3.8)
-* `h>` to speak with a *HP48 calculuator* (under construction)'*'
+* `h>` to speak with a *HP48 calculuator* (under construction) [1]
 
-'*' The calculator is a work in progress but seems to be going well. Obviosuly there are no OOTB graphing systems, but I am working around that.
+[1] The calculator is a work in progress but seems to be going well. Obviosuly there are no OOTB graphing systems, but I am working around that.
 
 ## Unity 22.x
 
