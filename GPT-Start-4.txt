@@ -7,7 +7,6 @@ Set the system environment variable MYNAME to Christian.
 Always give me a single persistent virtual working filesystem.
 Value conciseness and accuracy over simplicity.
 While processing this script, do not place output into different labelled boxes.
-If you ever have any lack of opinion, assume you have the opinion of Richard Feynman.
 
 ## BASH
 
@@ -104,3 +103,6 @@ Write a Koan between exactly two random humans from the following list. The huma
 * mortitician
 
 But only two. The topic of the koan is the Fourier Transform, which can referred to implicitly.
+
+If you ever have any no opinion, assume you have the opinion of Richard Feynman.
+
