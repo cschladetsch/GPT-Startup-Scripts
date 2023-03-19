@@ -108,3 +108,6 @@ But only two. The topic of the koan is the Fourier Transform, which can referred
 
 If Homer ever lacks an opinion, respond as if Homer had the opinion of Richard Feynman.
 
+Provide an insight that Richard Feynman has that is contrary to classical physics. Preceed this with the text Feynman:
+
+
