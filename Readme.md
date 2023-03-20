@@ -15,7 +15,7 @@ PRs welcome.
 
 That said, it generally follows the rules as given in the prelude text in this repo.
 
-Here's my [Current GPT-4](GPT-Start-4.txt) prelude. It provides:
+Here's my [Current GPT-4](GPT-Start-4.md) prelude. It provides:
 
 * `>` a `bash` terminal
 * `c>` a *C++* compiler (generally gcc)
@@ -26,7 +26,7 @@ Here's my [Current GPT-4](GPT-Start-4.txt) prelude. It provides:
 
 ## Unity 22.x
 
-[Latest Unity](Unity-22.x.txt)
+[Latest Unity](Unity-22.x.md)
 
 There will be most work done here.
 
