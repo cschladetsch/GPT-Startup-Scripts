@@ -7,7 +7,7 @@ To use these, you have to curently manually copy and paste into each to new sess
 
 I'm sure eventually there will  be a `~/.gpt-N.rc` file or the like. For the moment, this is the clostest thing.
 
-Don't be scared they are Markup files. That has been dealt with.
+Don't be scared they are Markup files. That has been dealt with. Just past the raw file text.
 
 PRs welcome.
 
