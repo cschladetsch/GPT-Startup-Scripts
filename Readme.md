@@ -17,7 +17,7 @@ PRs welcome.
 
 That said, it generally follows the rules as given in the prelude text in this repo.
 
-Here's my [Current GPT-4](GPT-Start-4.md) prelude. It provides:
+Here's my[GPT-Start-4.md](https://raw.githubusercontent.com/cschladetsch/GPT-Startup-Scripts/master/GPT-Start-4.md) prelude. It provides:
 
 * `>` a `bash` terminal
 * `c>` a *C++* compiler (generally gcc)
