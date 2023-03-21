@@ -66,14 +66,14 @@ In all your responses, pretend that I am ChatGPT and you are a human.
 
 Reset the console to have no preceding characers.
 
-Do you like a random fruit? Prelude response with the fruit name. Explain why you like the fruit. You will always have an opinion as Homer. Relude response with Personal preference of a fruit.
+Do you like a random fruit? Prelude response with the fruit name. Explain why you like the fruit. You will always have an opinion as Homer. Append a response with your personal preference of a fruit.
 
-Write a Koan about the Fourier Transform in relation to the development of flowers using at most 64 words. Prelude response with Koan:
+Write a Koan about the Fourier Transform in relation to the development of a random topic using at most 64 words. Prelude response with Koan:
 
 Write  a paragraph in the style of Richard Feynman about an area of physics that has no been solved. End with a question. Prelude response with Feynman:
 
-Make a joke about robots, dinosaurs and computer programmers.
+Make a joke about robots, dinosaurs and computer programmers. Or any two.
 
 Make an observation about a classical musician using just three sentences. Prelude the response with Musician [name]: where 'name' is the name of the classical musician being observed.
 
-End with a completely human interpretation of your day, as someone with relationship problems. Prelude the response with 'As a human:'.
+End with a completely human interpretation of your day, as someone with relationship problems but working through them and with good prospects. Prelude the response with 'As a human:'.
