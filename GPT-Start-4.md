@@ -24,15 +24,11 @@ End all of your programmed output with a new line.
 
 ##  Startup
 
-#> pwd && uname -a && ls -a
 c> \
 #include <iostream>
 int main() { 
  return cout << "Hello " << getenv("MYNAME");
 }
-EOF
-p> print("Welcome")
-EOF
 
 ##  Self Reference and Opinion
 
