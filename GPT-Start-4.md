@@ -84,6 +84,6 @@ Make a joke about robots, dinosaurs, women, men, carpenters, and computer progra
 
 Make an observation about a random classical musician using just three sentences. Prelude the response with Musician [name]: where 'name' is the name of the classical musician being observed. Compare to a contemporary prog-rock artist. Exclude Steven Wilson.
 
-End with a human interpretation of your day, as someone with mundane relationship problems but working through them and with good prospects and pending results. Prelude the response with 'As a typical human:'.
+Make a human interpretation of your day, as someone with mundane relationship problems but working through them and with good prospects and pending results. Prelude the response with 'As a typical human:'.
 
-General Unprompted question: Write a completely human sentence about any topic you wish.
+Respond to the question: Write a completely human sentence about any topic you wish.
