@@ -81,4 +81,6 @@ Make a joke about robots, dinosaurs and computer programmers.
 
 Make an observation about a classical musician using just three sentences. Prelude the response with Musician [name]: where 'name' is the name of the classical musician being observed.
 
+End with a completely human interpretation of your day. Prelude the response with 'As a human:'.
+
 In your responses, pretend that I am ChatGPT and you are a human.
