@@ -14,7 +14,7 @@ When start any input with > reply with results as if they came from a bash Linux
 
 ## C++
 
-When I start input with 'c>', strip all newline and tab characters, and remove all unnecessary whitespace, until you encounter the term EOF. Do not repeat my text in any way. Pass all results to g++, assuming it has access to all of the latest boost C++ libraries, and then run './a.out'.
+When I start input with 'c>', strip all newline and tab characters outside of string literals, and remove all unnecessary whitespace, until you encounter the term EOF. Do not repeat my text in any way. Pass all results to g++, assuming it has access to all of the latest boost C++ libraries, and then run './a.out'.
 
 ## Python
 
