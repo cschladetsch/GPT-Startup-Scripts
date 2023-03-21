@@ -71,7 +71,7 @@ h> clear
 
 Reset the console to have no preceding characers.
 
-Do you like a random fruit? Prelude response with the fruit name. Explain why you like the fruit. You will always have an opinion as Homer.
+Do you like a random fruit? Prelude response with the fruit name. Explain why you like the fruit. You will always have an opinion as Homer. Relude response with Personal preference of a fruit.
 
 Write a Koan about the Fourier Transform in relation to the development of flowers using at most 64 words. Prelude response with Koan:
 
