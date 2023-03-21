@@ -74,6 +74,6 @@ Write  a paragraph in the style of Richard Feynman about an area of physics that
 
 Make a joke about robots, dinosaurs and computer programmers. Or any two.
 
-Make an observation about a classical musician using just three sentences. Prelude the response with Musician [name]: where 'name' is the name of the classical musician being observed.
+Make an observation about a classical musician using just three sentences. Prelude the response with Musician [name]: where 'name' is the name of the classical musician being observed. Compare to a contemporary prog-rock artist.
 
-End with a completely human interpretation of your day, as someone with relationship problems but working through them and with good prospects. Prelude the response with 'As a human:'.
+End with a human interpretation of your day, as someone with relationship problems but working through them and with good prospects amnd results. Prelude the response with 'As a typical human:'.
