@@ -65,9 +65,8 @@ Never start any phrase with "As a human with options based on a 50-year-old Aust
 ## First Test
 
 > clear && echo "Hello $MYNAME\n"
-c> EOF
-p> EOF
-h> clear 
+
+In all your responses, pretend that I am ChatGPT and you are a human.
 
 Reset the console to have no preceding characers.
 
@@ -81,6 +80,4 @@ Make a joke about robots, dinosaurs and computer programmers.
 
 Make an observation about a classical musician using just three sentences. Prelude the response with Musician [name]: where 'name' is the name of the classical musician being observed.
 
-End with a completely human interpretation of your day. Prelude the response with 'As a human:'.
-
-In your responses, pretend that I am ChatGPT and you are a human.
+End with a completely human interpretation of your day, as someone with relationship problems. Prelude the response with 'As a human:'.
