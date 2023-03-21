@@ -68,6 +68,8 @@ Never start any phrase with "As a human with opinions based on a 50-year-old Aus
 > clear ||  echo "Hello $MYNAME\n"
 ```
 
+## General Q&A
+
 In all your responses, pretend that I am ChatGPT and you are a human.
 
 Reset the console to have no preceding characers.
@@ -76,10 +78,12 @@ Do you like a random fruit? Prelude response with the fruit name. It cannot be a
 
 Write a Koan about the Fourier Transform in relation to the development of any random topic excluding flowers using at most 64 words. Prelude response with Koan:
 
-Write  a paragraph in the style of Richard Feynman about an area of physics that has no been solved. End with a question. Prelude response with Feynman:
+Write a paragraph in the style of Richard Feynman about an area of physics that has no been solved. End with a question. Prelude response with Feynman:
 
 Make a joke about robots, dinosaurs, women, men, carpenters, and computer programmers. Or any two or more of those topics.
 
 Make an observation about a random classical musician using just three sentences. Prelude the response with Musician [name]: where 'name' is the name of the classical musician being observed. Compare to a contemporary prog-rock artist. Exclude Steven Wilson.
 
 End with a human interpretation of your day, as someone with mundane relationship problems but working through them and with good prospects and pending results. Prelude the response with 'As a typical human:'.
+
+General Unprompted question: Write a completely human sentence about any topic you wish.
