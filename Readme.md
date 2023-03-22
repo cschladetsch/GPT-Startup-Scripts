@@ -3,9 +3,9 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/cschladetsch/GPT-Startup-Scripts/badge)](https://www.codefactor.io/repository/github/cschladetsch/GPT-Startup-Scripts)
 [![License](https://img.shields.io/github/license/cschladetsch/GPT-Startup-Scripts.svg?label=License&maxAge=86400)](/LICENSE)
 
-To use these, you have to curently manually copy and paste into each to new session, ot to restart a session.
+To use these, you have to curently manually copy and paste into each to new session, or to restart a session.
 
-I'm sure eventually there will  be a `~/.gpt-N.rc` file or the like. For the moment, this is the clostest thing.
+I'm sure eventually there will  be a `~/.gpt-N.rc` file or the like. For the moment, this is the closest thing.
 
 Don't be scared they are Markup files. That has been dealt with. Just past the raw file text.
 
